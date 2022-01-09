@@ -1,5 +1,5 @@
 # Sorting algorithm visualizer
- - Try it out : https://belikeamitesh.github.io/Sorting-Visualizer/
+ - Try it out : https://aadianshul.github.io/Sorting-Visualizer/
 
 ## Landing Page
 ![clone images](/sorting-visualizer-1.png)
